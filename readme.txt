@@ -6,4 +6,4 @@ git is interesting
 nothing
 
 learn stage
-git tracks changes.
+git tracks changes of files.
